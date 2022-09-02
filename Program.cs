@@ -11,7 +11,7 @@ namespace Help.All2
          
         static void Main(string[] args)
         {
-            help1 h = new help1();
+            help2 h = new help2();
             h.Start();
             Console.ReadLine();
         }
